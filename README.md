@@ -1,1 +1,2 @@
 # 3-bit-parallel-adder---CMOS-and-Pseudo-NMOS-logic
+Welcome to the 3 Bit Parallel Adder Using CMOS and Pseudo NMOS Logic repository! This repository contains the design and implementation of a 3-bit parallel adder circuit using both CMOS and Pseudo NMOS logic. The project demonstrates the principles of digital circuit design, showcasing the differences and advantages of using CMOS and Pseudo NMOS technologies. Included in this repository are the schematic diagrams, simulation results, and detailed documentation explaining the design process and performance analysis. 
